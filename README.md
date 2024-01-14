@@ -24,8 +24,8 @@ The inception of this project stems from a conversation with a close friend who 
 ## How was it Built?
 Tech stack used: HTML, CSS, JavaScript, Python, Flask
 
-**Why did I choose this stack:**
-For this project's front-end, I chose to use the classic trio of HTML, CSS and JavaScript, as they work well in tandem to create simple yet elegant webpages. In particular, HTML helps set the foundtational structure of the webpage, with CSS providing the visual styling, while JavaScript enables user interactions. On the backend, Python with the Flask framework offer a robust foundation and a vast array of libraries, allowing for efficient data processing, API interactions, and server-side functionalities.  
+**Why did we choose this stack:**
+For this project's front-end, we chose to use the classic trio of HTML, CSS and JavaScript, as they work well in tandem to create simple yet elegant webpages. In particular, HTML helps set the foundtational structure of the webpage, with CSS providing the visual styling, while JavaScript enables user interactions. On the backend, Python with the Flask framework offer a robust foundation and a vast array of libraries, allowing for efficient data processing, API interactions, and server-side functionalities.  
 
 ## How this application could be improved
 Here are some of the features we are currently working on to improve the product:
